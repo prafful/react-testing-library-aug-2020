@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot if it does not exist and match it for all test in future 1`] = `
+<div
+  className="button"
+  data-testid="button"
+>
+  Hello 
+  snapshot
+   
+</div>
+`;
